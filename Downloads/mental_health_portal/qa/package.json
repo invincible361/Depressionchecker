@@ -1,0 +1,7 @@
+{
+  "name": "mindcare-database-checks",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node database_test.mjs" },
+  "devDependencies": { "@electric-sql/pglite": "0.5.11" }
+}

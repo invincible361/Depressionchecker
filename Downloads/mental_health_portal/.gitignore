@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+build/
+.env
+config.json
+*.credentials
+# Widget Preview related
+.widget_preview/
+
+.json
